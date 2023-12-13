@@ -1,5 +1,7 @@
 ## 文件结构
 
+github: https://github.com/julyfun/speit-lab6
+
 ```
 .
 ├── CMakeLists.txt  # CMake 文件
